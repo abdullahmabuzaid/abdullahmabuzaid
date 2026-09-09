@@ -1,18 +1,20 @@
 # Hi, I'm Abdullah Mohammed AbuZaid 👋
 
-### 💻 Computer Engineering Student | Front-End Developer in Progress
+### 💻 Computer Engineering Graduate | Front-End Developer
 
-I'm a passionate **Computer Engineering student** with a strong interest in **Front-End Development**.
+I'm a **Computer Engineering graduate** and **Front-End Developer** passionate about building responsive, clean, and user-friendly web applications.
 
-This GitHub profile is my digital lab — where I learn, build, experiment, and grow step by step by turning ideas into real projects.
+I work mainly with **JavaScript, React, and Next.js**, and I'm continuously expanding my skills toward **Full-Stack Development** by building real-world projects.
 
 ---
 
-## 🚀 What I'm Focusing On Right Now
+## 🚀 What I Do
 
-- **Front-End Development:** Creating responsive, clean, and user-friendly interfaces using modern web technologies.  
-- **CS Fundamentals:** Strengthening algorithms, data structures, and clean code practices.  
-- **Continuous Improvement:** Learning daily and transforming engineering theory into practical, real-world projects.
+* Build responsive and modern web interfaces.
+* Develop applications using **React.js** and **Next.js**.
+* Work with REST APIs and backend technologies.
+* Focus on clean, maintainable, and reusable code.
+* Continuously improve my problem-solving and software engineering skills.
 
 ---
 
@@ -23,7 +25,12 @@ This GitHub profile is my digital lab — where I learn, build, experiment, and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
@@ -31,21 +38,34 @@ This GitHub profile is my digital lab — where I learn, build, experiment, and 
 
 ---
 
-## 📚 My Learning Journey
+## 🌱 Currently Learning
 
-The projects you’ll find here represent my progress:
+* Advanced React & Next.js
+* Full-Stack Development
+* Node.js & Express.js
+* PostgreSQL & Prisma
+* Software Engineering Best Practices
 
-- Practice exercises to master fundamentals  
-- Experimental projects to explore new ideas  
-- Real applications that push my skills forward  
+---
 
-Each repository is a step toward becoming a better and more professional engineer.
+## 📌 Featured Projects
+
+Some of the projects I'm most proud of:
+
+* **Dawai Gaza** — Pharmacy monitoring and medicine search system.
+* **Wajba** — Full-stack restaurant ordering application.
+* **E-Commerce Full-Stack** — Full-stack e-commerce application.
+* **Mahame** — Task management platform.
+* **Dashboard SaaS** — Modern SaaS dashboard interface.
+* **Quick Bite Restaurant** — Restaurant ordering system.
 
 ---
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abdullahabuzaid2004@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/970594587941)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:abdullahmabuzaid@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp\&logoColor=white\&style=for-the-badge)](https://wa.me/970594587941)
 
 ---
+
+⭐ Thanks for visiting my profile!
