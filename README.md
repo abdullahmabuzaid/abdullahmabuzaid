@@ -28,8 +28,6 @@ I work mainly with **JavaScript, React, and Next.js**, and I'm continuously expa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="Prisma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
@@ -52,17 +50,18 @@ I work mainly with **JavaScript, React, and Next.js**, and I'm continuously expa
 
 Some of the projects I'm most proud of:
 
-* **Dawai Gaza** — Pharmacy monitoring and medicine search system.
-* **Wajba** — Full-stack restaurant ordering application.
-* **E-Commerce Full-Stack** — Full-stack e-commerce application.
-* **Mahame** — Task management platform.
-* **Dashboard SaaS** — Modern SaaS dashboard interface.
-* **Quick Bite Restaurant** — Restaurant ordering system.
+* **Dawai Gaza** - Pharmacy monitoring and medicine search platform for Gaza. [Repo](https://github.com/abdullahmabuzaid/dawai-gaza) · [Live Demo](https://dawai-gaza.vercel.app)
+* **Wajba** - Full-stack food delivery platform with real-time order updates. [Repo](https://github.com/abdullahmabuzaid/wajba) · [Live Demo](https://wajba-gaza.vercel.app)
+* **E-Commerce Full-Stack** - Arabic (RTL) e-commerce store with admin dashboard and JWT auth. [Repo](https://github.com/abdullahmabuzaid/e-commerce-fullstack)
+* **Mahame** - Arabic task management app with Supabase auth and optimistic UI. [Repo](https://github.com/abdullahmabuzaid/mahame)
+* **Dashboard SaaS** - Responsive SaaS analytics dashboard with interactive charts. [Repo](https://github.com/abdullahmabuzaid/dashboard-saas)
+* **Quick Bite Restaurant** - Restaurant ordering system with cart and live order tracking. [Repo](https://github.com/abdullahmabuzaid/quick-bite-restaurant) · [Live Demo](https://iug-quick-bite-restaurant.vercel.app)
 
 ---
 
 ## 📫 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white\&style=for-the-badge)](https://linkedin.com/in/abdullahmabuzaid)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white\&style=for-the-badge)](mailto:abdullahmabuzaid@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp\&logoColor=white\&style=for-the-badge)](https://wa.me/970594587941)
 
